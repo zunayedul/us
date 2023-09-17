@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav>ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    color: aliceblue;
+    
+    
+}
+section{
+    background-color: rgb(245, 84, 151);
+    color: black;
+    padding: 20px;
+    
+}
+main{
+    background-color: rgb(246, 120, 166);
+    padding: 20px;
+}
+    .para{
+        border: 2px solid wheat;
+        padding: 20px;
+        margin: 20px;
+        color: aliceblue;
+    }
+    h2{
+        text-align: center;
+    }
+    .para-name{
+        text-align: center;
+        color: red;
+    }
+    .heading{
+        color: aliceblue;
+    }
+    fieldset{
+        margin: 10px;
+        
+    }
+   footer{
+    background-color: black;
+   }
+   legend{
+    color: aliceblue;
+   }
+   .ap1{
+    height: 200px;
+    width: 150px;
+    border-radius: 50px 50px 0px 0px;
+   }
+   .ap2{
+    height: 200px;
+    width: 150px;
+    border-radius: 50px 50px 0px 0px;
+   }
+   .about-div{
+    display: flex;
+    gap: 200px;
+    padding: 100px;
+    justify-content: center;
+   }
+   .pdi1{
+    height: 500px;
+    width: 350px;
+    border-radius: 50px 0px 50px 0px;
+   }
+   .pdi2{
+    height: 500px;
+    width: 350px;
+    border-radius: 50px 0px 50px 0px;
+   }
+   .pdi3{
+    height: 500px;
+    width: 350px;
+    border-radius: 50px 0px 50px 0px;
+   }
+   .pdi4{
+    height: 500px;
+    width: 350px;
+    border-radius: 50px 0px 50px 0px;
+   }
+   .pdi{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+   padding: 100px;
+   }
+   .vmh3{
+    padding: 100px;
+    color: aliceblue;
+   }
+   .cmd{
+    display: flex;
+    gap: 50px;
+    padding: 100px;
+   }
